@@ -6,3 +6,8 @@ Thanks a lot to all the open sourcers of dictees below :
 - open sourced dictees from tv5monde http://dictee.tv5monde.com/
 
 Releasing this under the CC license. Seems fairer :)
+
+Possible improvements :
+- Creating a distance ( https://en.wikipedia.org/wiki/Levenshtein_distance ) between two strings
+- Putting a very simple website allowing people to make their own "dictees"
+- Checking the differences
